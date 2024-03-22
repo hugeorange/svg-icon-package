@@ -1,5 +1,8 @@
 # svg-icon-package
 
+1. 自动将 svg 转成 React 组件，并利用 father 打包成组件库，dumi 生成文档站点
+2. 转换方式参考 https://github.com/yijinc/icon-garden
+
 #### 1. 对于不需要特殊定义颜色并且是正方形的 icon，采用自动生成 React 组件的方式
 
 1.  按照 icon 分类命名 svg 文件名称，名称格式为 xxx-xxx 这种，均已小写字母开头
